@@ -1,6 +1,5 @@
 # Hi there, I'm Ishika Pandey 👋
 
-**[Current Role / Primary Expertise, e.g., Full-Stack Developer | Open Source Contributor]**
 
 I am a passionate software developer focused on building scalable web applications, clean architecture, and intuitive user experiences. Currently exploring **[Technologies you are currently learning, e.g., Rust, Distributed Systems, Microservices]**.
 
